@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="32.3px" height="21.8px" viewBox="0 0 32.3 21.8" enable-background="new 0 0 32.3 21.8" xml:space="preserve">
+                <defs>
+                </defs>
+                <g>
+                  <g>
+                    <path fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" d="M31.1,10.9c0,0-6.7,9.9-14.9,9.9
+                      S1.2,10.9,1.2,10.9S7.9,1,16.1,1S31.1,10.9,31.1,10.9z"></path>
+                    <circle fill="#19477D" stroke="#19477D" stroke-miterlimit="10" cx="16.1" cy="10.9" r="1.5"></circle>
+                  </g>
+                  <circle fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" cx="16.1" cy="10.9" r="9.9"></circle>
+                </g>
+              </svg>

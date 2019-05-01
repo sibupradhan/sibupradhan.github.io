@@ -1,0 +1,29 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="131.5px" height="61px" viewBox="0 0 131.5 61" enable-background="new 0 0 131.5 61" xml:space="preserve">
+          <defs>
+          </defs>
+          <g>
+            <circle fill="#FDD615" cx="4.7" cy="30.7" r="4.7"></circle>
+            <circle fill="#3BABEF" fill-opacity="0.5" cx="126.8" cy="30.7" r="4.7"></circle>
+            <circle fill="#3BABEF" fill-opacity="0.5" cx="113" cy="56.3" r="4.7"></circle>
+            <line fill="none" stroke="#FDD615" stroke-miterlimit="10" stroke-opacity="0.5" x1="4.7" y1="30.7" x2="64.4" y2="30.7"></line>
+            <g>
+              <g opacity="0.5">
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" x1="68.3" y1="30.7" x2="69.3" y2="30.7"></line>
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" stroke-dasharray="2.0756,2.0756" x1="71.4" y1="30.7" x2="120.1" y2="30.7"></line>
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" x1="121.2" y1="30.7" x2="122.2" y2="30.7"></line>
+              </g>
+            </g>
+            <polyline fill="none" stroke="#FDD615" stroke-miterlimit="10" points="100,4.7 64.4,4.7 64.4,26 	"></polyline>
+            <g>
+              <g opacity="0.5">
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" x1="108.3" y1="56.3" x2="107.3" y2="56.3"></line>
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" stroke-dasharray="1.9953,1.9953" x1="105.3" y1="56.3" x2="66.4" y2="56.3"></line>
+                <polyline fill="none" stroke="#3BABEF" stroke-miterlimit="10" points="65.4,56.3 64.4,56.3 64.4,55.3 			"></polyline>
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" stroke-dasharray="2.1113,2.1113" x1="64.4" y1="53.2" x2="64.4" y2="37.4"></line>
+                <line fill="none" stroke="#3BABEF" stroke-miterlimit="10" x1="64.4" y1="36.3" x2="64.4" y2="35.3"></line>
+              </g>
+            </g>
+            <circle fill="#FDD615" cx="64.4" cy="30.7" r="4.7"></circle>
+            <circle fill="#FDD615" cx="102.5" cy="4.7" r="4.7"></circle>
+          </g>
+        </svg>

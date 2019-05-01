@@ -1,0 +1,45 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="195.6px" height="125.9px" viewBox="0 0 195.6 125.9" enable-background="new 0 0 195.6 125.9" xml:space="preserve">
+          <g>
+            <g>
+              <rect x="60.7" y="42.2" fill="#3BABEF" width="74" height="5"></rect>
+              <rect x="89.7" y="18.2" fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" width="16" height="21"></rect>
+              <g>
+                <rect x="78.7" y="50.2" fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" width="8" height="6"></rect>
+                <polygon fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" points="85,56.2 80.9,56.2 81.7,65.2 84.2,65.2
+                  "></polygon>
+              </g>
+              <g>
+                <rect x="93.7" y="50.2" fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" width="8" height="6"></rect>
+                <polygon fill="none" stroke="#19477D" stroke-width="2" stroke-miterlimit="10" points="100,56.2 96,56.2 96.8,65.2 99.2,65.2
+                  "></polygon>
+              </g>
+              <g>
+                <rect x="108.7" y="50.2" fill="none" stroke="#EE3445" stroke-width="2" stroke-miterlimit="10" width="8" height="6"></rect>
+                <polygon fill="none" stroke="#EE3445" stroke-width="2" stroke-miterlimit="10" points="115,56.2 111,56.2 111.8,65.2
+                  114.2,65.2 			"></polygon>
+              </g>
+              <circle fill="#19477D" cx="97.8" cy="28.3" r="1.6"></circle>
+              <path fill="none" stroke="#19477D" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M106.9,28
+                c3.4,0,5.4,2.2,5.4,10.5"></path>
+              <path fill="none" stroke="#19477D" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M88.3,28
+                c-3.4,0-5.4,2.2-5.4,10.5"></path>
+            </g>
+            <g>
+              <path fill="#3BABEF" d="M119,108h-12V82c0-2.2,1.8-4,4-4h4c2.2,0,4,1.8,4,4V108z"></path>
+              <rect x="111" y="69" fill="#3BABEF" width="4" height="15"></rect>
+            </g>
+            <g>
+              <path fill="#3BABEF" d="M104,108H92V82c0-2.2,1.8-4,4-4h4c2.2,0,4,1.8,4,4V108z"></path>
+              <rect x="96" y="69" fill="#3BABEF" width="4" height="15"></rect>
+            </g>
+            <g>
+              <path fill="#3BABEF" d="M89,108H77V82c0-2.2,1.8-4,4-4h4c2.2,0,4,1.8,4,4V108z"></path>
+              <rect x="81" y="69" fill="#3BABEF" width="4" height="15"></rect>
+            </g>
+          </g>
+          <g>
+            <polygon fill="none" stroke="#EE3445" stroke-width="2" stroke-miterlimit="10" points="188.7,69.2 157.3,69.2 173,42.8 	"></polygon>
+            <line fill="none" stroke="#EE3445" stroke-width="2" stroke-miterlimit="10" x1="173" y1="51.6" x2="173" y2="60.9"></line>
+            <circle fill="#EE3445" cx="173" cy="63.9" r="1.5"></circle>
+          </g>
+        </svg>
